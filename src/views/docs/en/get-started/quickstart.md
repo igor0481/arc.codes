@@ -6,11 +6,14 @@ description: Get started quickly with Architect
 
 > Architect is a simple tool to build and deliver powerful cloud function-based web apps and APIs
 
+## Create a new project
+
 Assuming Node.js 14+ is installed, open your terminal and create a new Architect project:
 
 ```bash
 npm init @architect new-app
 ```
+## Run dev server
 
 Start the local dev server:
 
