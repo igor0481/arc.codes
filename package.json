@@ -15,7 +15,7 @@
     "@architect/asap": "^4.1.0",
     "@architect/functions": "^4.0.0",
     "@architect/inventory": "^2.1.1",
-    "@architect/package": "^7.1.1",
+    "@architect/package": "^8.1.2",
     "@architect/syntaxes": "github:architect/syntaxes#v1.2.1",
     "@toycode/markdown-it-class": "^1.2.4",
     "esm": "^3.2.25",
