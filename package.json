@@ -32,7 +32,7 @@
     "@architect/eslint-config": "^2.0.1",
     "@architect/spellcheck-dictionary": "github:architect/spellcheck-dictionary",
     "eslint": "^8.1.0",
-    "linkinator": "^2.14.5",
+    "linkinator": "^4.0.2",
     "spellchecker-cli": "^4.8.0",
     "tap-arc": "^0.1.0",
     "tape": "^5.3.1",
